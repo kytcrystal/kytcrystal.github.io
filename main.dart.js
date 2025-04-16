@@ -36116,7 +36116,7 @@ A.oF.prototype={
 uL(){var s=0,r=A.R(t.N),q,p=this
 var $async$uL=A.S(function(a,b){if(a===1)return A.O(b,r)
 while(true)switch(s){case 0:s=3
-return A.Z($.CI().a92("blog_posts/"+p.c),$async$uL)
+return A.Z($.CI().a92("assets/blog_posts/"+p.c),$async$uL)
 case 3:q=b
 s=1
 break
