@@ -36141,7 +36141,7 @@ return A.ahd(b)},
 $S:277}
 A.vi.prototype={
 ah(){var s=t.s
-return new A.MI(A.a(["Importance of Planning","Interesting Way of using AI as a Budding Developer"],s),A.a(["250403_planning.md","250409_using_AI.md"],s))}}
+return new A.MI(A.a(["Importance of Planning","Interesting Way of using AI as a Budding Developer"],s),A.a(["250403_planning.md","250409_using_ai.md"],s))}}
 A.MI.prototype={
 N(a){var s=null,r=A.ama(B.k_,!0,B.OL)
 return A.ap_(r,new A.cn(B.eh,new A.vN(new A.a7Z(new A.acW(this),2,!0,!0,!0,s),s,B.aT,!1,s,s,B.je,!1,s,2,B.Z,B.vd,s,B.ac,B.aa,s),s))}}
