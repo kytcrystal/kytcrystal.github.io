@@ -3,7 +3,7 @@ title: "Interesting Way of using AI as a Budding Developer"
 dateWritten: 2025-04-03
 dateEdited: 2025-04-09
 slug: interesting-way-of-using-ai
-tags: [ai, flutter]
+tags: [ai, flutter, development]
 ---
 
 As a non-proficient UI developer, I have taken to ChatGPT to generate initial code snippets to understand what kind of blog layout I would like. I am currently learning Flutter and hence have set-up my project based in Flutter.
