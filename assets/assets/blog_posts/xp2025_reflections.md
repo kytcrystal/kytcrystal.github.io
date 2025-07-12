@@ -22,3 +22,42 @@ I presented on the first day of the conference, at the AI and Agile workshop. It
 
 Here are the links to the [final paper](https://zenodo.org/records/15870404) and [presentation](https://conf.researchr.org/details/xp-2025/ai-and-agile-2025/16/AI-and-Teamwork-in-Agile-Software-Development-A-Systematic-Mapping-Study).
 
+## My reflections about the conference
+
+Boy am I glad that I did a little retrospective session myself on the last day of XP2025 because it sure is tough to reflect on things 1 month ago. At least for me, its tough. What I really like about this conference is the inspiration and the ideas. I especially enjoyed the morning keynote speeches because they were delivered so thoughtfully and accurately. Many other talks I attended were also very thought provoking and motivating.
+
+Below I will list some of the talks I attended from Day 2 to 4 (Day 1 was workshop day) and include points that I find interesting.
+
+### Day 2 Keynote - AI for teams: State of play for AI assistance beyond code
+
+By Birgitta Böckeler
+
+- We don't really know what's going on in the blackbox of GenAI, so we need to learn from examples from others.
+- GenAI is a great way to create prototype but don't use it to replace high fidelity prototypes.
+- Context is key!
+- Better do an integrity check.
+- It seems like with AI, there is a lure back to waterfall but infact, because of AI, we need to be more resilient, responsive and have fast feedback loops!
+
+### Day 3 Keynote - Five Years Into Remote and Hybrid Working – Has Anyone Wondered About Agile Teamwork?
+
+By Darja Šmite
+
+- Office presence paradox: The more we stay at home, the more disturbed we are in office.
+- Every single interaction becomes a time boxed slot.
+- We need to have more collaborative tasks to bring people back to office to work together!
+
+### Day 4 Keynote - You Can't Ignore the Code: Coaching Development Teams
+
+By Emily Bache
+
+- We need technical excellence!
+- Samman method helps improve code quality and agility of the organization.
+- Progress through the skill acquisition model: familiarity, comprehension, conscious effort, conscious action, proficient, unconscious competence.
+
+### Special mentions
+
+I also attended these talks below and felt that they were interesting and thought provoking.
+
+- Transformative Learning for Transformative Retrospectives by John Buck and Jutta Eckstein
+- Modern Business Demands Modern Ways of Working By Heidi Musser
+- An Open Space session about whether a person is good or bad

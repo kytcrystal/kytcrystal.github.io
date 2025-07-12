@@ -10,7 +10,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "747489c16ead76e7f70d64cd68e960da
 "assets/assets/media/unibz.jpg": "9ef4c33a869a2308bd6895634bafb8a8",
 "assets/assets/media/250403_four_quadrant_todo.png": "ac9d911727508a813da17f40cf3638eb",
 "assets/assets/media/profile.png": "51efce0e7664191b0c5e1d4ebfa16875",
-"assets/assets/blog_posts/xp2025_reflections.md": "05b8acb9e5a66a44447defc301152017",
+"assets/assets/blog_posts/xp2025_reflections.md": "a1fed7a04512ea4a98ca9a36754ceedd",
 "assets/assets/blog_posts/importance-of-planning.md": "61ec61011ffcf0131f02eb685d7fc4f7",
 "assets/assets/blog_posts/interesting-way-of-using-ai.md": "2ce180d189bf230485c2952b2c8eaacf",
 "assets/assets/blog_posts/dealing-with-dependencies.md": "13d4c58aaae99511778616686fd7b67c",
@@ -26,7 +26,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "747489c16ead76e7f70d64cd68e960da
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "version.json": "36d1e650ed1e41b6486786b5da0f6f51",
 "manifest.json": "ace26d0c71a6ddf01f5f72671a426a89",
-"flutter_bootstrap.js": "4f2a54d70b08480250b622ddd6ecc6e4",
+"flutter_bootstrap.js": "ecc37d1ce7dc0e4ca25d2f2ffab4ff93",
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "canvaskit/skwasm.wasm": "9f0c0c02b82a910d12ce0543ec130e60",
 "canvaskit/canvaskit.wasm": "1f237a213d7370cf95f443d896176460",
@@ -45,7 +45,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "747489c16ead76e7f70d64cd68e960da
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"main.dart.js": "6fc96b40985aed6499c36a8b048cc29c"};
+"main.dart.js": "022c4e15032edea3993ade06e459bee0"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
