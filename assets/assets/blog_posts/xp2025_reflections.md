@@ -64,4 +64,4 @@ I also attended these talks below and felt that they were interesting and though
 
 ### Notes
 
-I have also taken down some [scribble notes](pdfs/xp_2025_notes.pdf) during the conference. 
+I have also taken down some [scribble notes](assets/pdfs/xp_2025_notes.pdf) during the conference. 
