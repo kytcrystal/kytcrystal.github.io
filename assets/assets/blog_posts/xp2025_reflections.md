@@ -20,7 +20,7 @@ Many little things got me this chance to present my work in XP2025. For starters
 
 I presented on the first day of the conference, at the AI and Agile workshop. It was a full day workshop with attendance of around 20+ people. There were a mix of people, some who were extremely excited about the possibilities about AI and others who were afraid but knew its importance nevertheless.
 
-Here are the links to the [final paper](https://zenodo.org/records/15870404) and [presentation](https://conf.researchr.org/details/xp-2025/ai-and-agile-2025/16/AI-and-Teamwork-in-Agile-Software-Development-A-Systematic-Mapping-Study).
+Here are the links to the [final paper](https://zenodo.org/records/16146483) and [presentation](https://conf.researchr.org/details/xp-2025/ai-and-agile-2025/16/AI-and-Teamwork-in-Agile-Software-Development-A-Systematic-Mapping-Study).
 
 ## My reflections about the conference
 
@@ -61,3 +61,7 @@ I also attended these talks below and felt that they were interesting and though
 - Transformative Learning for Transformative Retrospectives by John Buck and Jutta Eckstein
 - Modern Business Demands Modern Ways of Working By Heidi Musser
 - An Open Space session about whether a person is good or bad
+
+### Notes
+
+I have also taken down some [scribble notes](assets/media/pdfs/xp_2025_notes.pdf) during the conference. 
