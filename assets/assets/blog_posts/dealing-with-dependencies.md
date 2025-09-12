@@ -3,7 +3,7 @@ title: "Dealing with Dependencies"
 dateWritten: 2025-05-16
 dateEdited: 2025-05-16
 slug: dealing-with-dependencies
-tags: [development]
+tags: [development, softwareengineering]
 ---
 
 ## Dependencies!!

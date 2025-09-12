@@ -3,7 +3,7 @@ title: "XP2025 Reflections"
 dateWritten: 2025-07-12
 dateEdited: 2025-07-12
 slug: xp2025-reflections
-tags: [reflections]
+tags: [reflections, agile, softwareengineering]
 ---
 
 I finally have the time to sit down and pen down my reflections for the 26th International Conference on Agile Software Development (XP2025).
