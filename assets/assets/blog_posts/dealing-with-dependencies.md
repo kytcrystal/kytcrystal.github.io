@@ -1,14 +1,14 @@
 ---
 title: "Dealing with Dependencies"
 dateWritten: 2025-05-16
-dateEdited: 2025-05-16
+dateEdited: 2025-09-18
 slug: dealing-with-dependencies
 tags: [development, softwareengineering]
 ---
 
-## Dependencies!!
+## Dependencies!
 
-I am quite done with dealing with dependencies… Especially when the project was running perfectly fine before and then I had to install another version of the same language for another project and after this and that, the original project environment is broken. Not to mention having spent 2 hours to get the new project started only to find afew days later that the old project is not working and had to figure out for 1 hour what to do. I admit that I am not a proficient software developer and especially not good at handling dependencies, so I am going to try to write down the steps that I think worked for me, at least it works right now. 
+Dealing with dependencies is definitely not a walk in the park. Below I document some of my practices.
 
 For working with multiple version of the same programming languages, I was recommended a tool version manager [asdf](https://asdf-vm.com). How it works is that the various versions are installed as executables and we then select the version for the project, creating a `.tool-versions` file. From this file, we can check which version is used for the project and asdf can also identify which executable to run. 
 
@@ -20,7 +20,7 @@ The [asdf documentation](https://asdf-vm.com/guide/getting-started.html) is pret
 
 ### Installing Plugin
 
-As an example, I will use Python (obviously). So first, we would need to install the Python plugin.
+As an example, I will use Python. So first, we would need to install the Python plugin.
 
 ```bash
 asdf plugin add python

@@ -1,12 +1,12 @@
 ---
 title: "Interesting Way of using AI as a Budding Developer"
 dateWritten: 2025-04-03
-dateEdited: 2025-04-09
+dateEdited: 2025-09-18
 slug: interesting-way-of-using-ai
 tags: [ai, flutter, development, softwareengineering]
 ---
 
-As a non-proficient UI developer, I have taken to ChatGPT to generate initial code snippets to understand what kind of blog layout I would like. I am currently learning Flutter and hence have set-up my project based in Flutter.
+To help me with my UI development, I have taken to ChatGPT to generate initial code snippets to understand what kind of blog layout I would like. I am currently learning Flutter and hence have set-up my project based in Flutter.
 
 [Flutter](https://flutter.dev/learn) according to Gemini, is a UI toolkit, developed by Google, used for building natively compiled applications for mobile, web, and desktop from a single codebase, leveraging the Dart programming language. Basically, it is a framework that can be used to build applications seamlessly on iOS, Android, Windows, macOS, Linux.
 
