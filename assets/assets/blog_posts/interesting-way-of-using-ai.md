@@ -14,11 +14,11 @@ As a first-time frontend developer, and also a first-time blogger, I am definite
 
 Anyway, the first thing I want to do, is to visualise what kind of blog I would like to create. And I found that using our AI friendly assistant to help in this is an effective way to get motivated and get started. With a few simple prompts, this is my first version.
 
-![First Version](assets/media/250409_first_version.png)
+![First Version](assets/media/post/250409_first_version.png)
 
 I wanted to have the various sections to write about so I thought these sections could be shown in the home page. But I think this is not really the vibes I was going for. Let’s try again, maybe a minimalist style. And perhaps for now I can just list the diary entries by title? Also, throw in some navigation.
 
-![Second Version](assets/media/250409_second_version.png)
+![Second Version](assets/media/post/250409_second_version.png)
 
 Not too shabby… I guess I could work with this for now. At least it is minimally usable and I will improve on this design as I explore more about Flutter.
 

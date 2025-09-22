@@ -22,7 +22,7 @@ I guess, I was hooked. I started exploring and researching on progressive workou
 
 Anyway, my back to running program below provided by my then-physiotherapist. Very slow running but I guess I’ll work on that progressively. 🙂
 
-![My Back to Running Program](assets/media/250501_back_to_running.png)
+![My Back to Running Program](assets/media/post/250501_back_to_running.png)
 
 To summarise why I think my progressive workouts are successful:
 

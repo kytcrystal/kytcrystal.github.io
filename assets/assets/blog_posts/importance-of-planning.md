@@ -30,7 +30,7 @@ This year, I feel that I have definitely been more in control of my life, with s
 
 Planning also involves writing the to-do list and here Randy emphasized on breaking the to-do items into small and manageable steps. And doing the ugliest first. Of course, speaking about the to-dos, we cannot miss out on Stephen Covey’s Four-Quadrant To-do, which was mentioned in Randy’s lecture. Obviously, we should first do the important item that is due soon and give the least priority to the not important and not due soon item. The next in line, is actually the important and not due soon item. Because, in the end, we will find that the not important but due soon item, is in fact, not important to actually do! So by not doing it, we get the time that we thought we didn’t have enough! That why, we need to prioritise our items in the to-do list and do the things that are important to us.
 
-![Stephen Covey's Four-Quadrant To-do](assets/media/250403_four_quadrant_todo.png)
+![Stephen Covey's Four-Quadrant To-do](assets/media/post/250403_four_quadrant_todo.png)
 
 Ok, enough said (or write). It’s time to get to work, not before this quick summary:
 
