@@ -39,7 +39,7 @@ const RESOURCES = {"flutter.js": "f393d3c16b631f36852323de8e583132",
 "assets/assets/blog_posts/posts_index.json": "c250aac9d83aeb5a44f9f09fb9420551",
 "assets/assets/blog_posts/importance-of-planning.md": "1a40da57c287509f36dbee6fab45ec4d",
 "assets/fonts/MaterialIcons-Regular.otf": "2247d490ce4e3e7afdd66282ddb078ff",
-"assets/NOTICES": "d40f0dfe2ef121315ba31ba75637de10",
+"assets/NOTICES": "c64df4cb0a2dcb177d5a222b82a17cda",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/pdfs/xp_2025_notes.pdf": "f314524ddc8f1bbf27f15ed830a8b61c",
 "assets/FontManifest.json": "a3b0e0948118cc463730b20c7b38f6c3",
@@ -56,9 +56,9 @@ const RESOURCES = {"flutter.js": "f393d3c16b631f36852323de8e583132",
 "canvaskit/canvaskit.js.symbols": "48c83a2ce573d9692e8d970e288d75f7",
 "canvaskit/skwasm.js.symbols": "262f4827a1317abb59d71d6c587a93e2",
 "favicon.png": "28220c9b52b9aa816abe9a3824c666b7",
-"flutter_bootstrap.js": "0053fd716c1c139c6a62174913d62657",
+"flutter_bootstrap.js": "919831979b2e2a2a489a06645557f70d",
 "version.json": "36d1e650ed1e41b6486786b5da0f6f51",
-"main.dart.js": "2fe9ddebbe076d55b7d2d3483005a3b0"};
+"main.dart.js": "9a6866dee5d5f1fba179988db09ab674"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
