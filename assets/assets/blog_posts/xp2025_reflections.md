@@ -1,7 +1,7 @@
 ---
 title: "XP2025 Reflections"
 dateWritten: 2025-07-12
-dateEdited: 2025-07-12
+dateEdited: 2025-01-11
 slug: xp2025-reflections
 tags: [reflections, agile, softwareengineering]
 ---
@@ -21,6 +21,8 @@ Many little things got me this chance to present my work in XP2025. For starters
 I presented on the first day of the conference, at the AI and Agile workshop. It was a full day workshop with attendance of around 20+ people. There were a mix of people, some who were extremely excited about the possibilities about AI and others who were afraid but knew its importance nevertheless.
 
 Here are the links to the [final paper](https://zenodo.org/records/16146483) and [presentation](https://conf.researchr.org/details/xp-2025/ai-and-agile-2025/16/AI-and-Teamwork-in-Agile-Software-Development-A-Systematic-Mapping-Study).
+
+The [published paper](https://link.springer.com/chapter/10.1007/978-3-032-05799-0_4) is also out!
 
 ## My reflections about the conference
 

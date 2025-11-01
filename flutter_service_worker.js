@@ -34,7 +34,7 @@ const RESOURCES = {"flutter.js": "f393d3c16b631f36852323de8e583132",
 "assets/assets/fonts/times/times.ttf": "fcb8965acd0e90c50138958a2a7e0421",
 "assets/assets/blog_posts/progressive-workouts.md": "0547e980f32dd4504b31df2ffd34d194",
 "assets/assets/blog_posts/dealing-with-dependencies.md": "a93561b47cb3619be4049245bb005e38",
-"assets/assets/blog_posts/xp2025_reflections.md": "a655db663f720d535b7b07dbc5aa6518",
+"assets/assets/blog_posts/xp2025_reflections.md": "8c1fb359d989624670a306765012d823",
 "assets/assets/blog_posts/interesting-way-of-using-ai.md": "4357b8fef128b6c42d19faecb4883c07",
 "assets/assets/blog_posts/posts_index.json": "c250aac9d83aeb5a44f9f09fb9420551",
 "assets/assets/blog_posts/importance-of-planning.md": "1a40da57c287509f36dbee6fab45ec4d",
@@ -56,9 +56,9 @@ const RESOURCES = {"flutter.js": "f393d3c16b631f36852323de8e583132",
 "canvaskit/canvaskit.js.symbols": "48c83a2ce573d9692e8d970e288d75f7",
 "canvaskit/skwasm.js.symbols": "262f4827a1317abb59d71d6c587a93e2",
 "favicon.png": "28220c9b52b9aa816abe9a3824c666b7",
-"flutter_bootstrap.js": "919831979b2e2a2a489a06645557f70d",
+"flutter_bootstrap.js": "2a19a666a9cd57618a87398c7465ec43",
 "version.json": "36d1e650ed1e41b6486786b5da0f6f51",
-"main.dart.js": "9a6866dee5d5f1fba179988db09ab674"};
+"main.dart.js": "7bb3bedb9184bf49ea0acf4bb982f89d"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
